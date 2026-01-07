@@ -7,3 +7,4 @@ faiss-cpu
 openai
 pathway
 python-dotenv
+streamlit

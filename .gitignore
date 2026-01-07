@@ -1,0 +1,15 @@
+
+.venv/
+
+__pycache__/
+*.pyc
+
+
+.DS_Store
+
+.cache/
+.ipynb_checkpoints/
+
+outputs/faiss_index/
+outputs/chunks/
+outputs/dossiers/
